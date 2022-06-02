@@ -20,4 +20,3 @@ The Current Implementation has the following capabilities:
 2. If the Inventory is large in size, i would suggest implementation of ID for the products and also functions
 for displaying information for the specific data.
 3. More functions to add capabilities for sorting the inventory list for Price or Quantity in stock or either by name
-4. 
